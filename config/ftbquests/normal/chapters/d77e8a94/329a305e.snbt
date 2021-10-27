@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 10.5d,
+	dependencies: [
+		"d812f124"
+	],
+	tasks: [{
+		uid: "cd9f797b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 1"
+		}],
+		count: 32L
+	}]
+}

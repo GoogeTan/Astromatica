@@ -1,0 +1,16 @@
+{
+	title: "Светопалки",
+	x: 15.5d,
+	y: -3.5d,
+	dependencies: [
+		"cb5323e3"
+	],
+	tasks: [{
+		uid: "101ca60f",
+		type: "item",
+		items: [{
+			item: "minecraft:blaze_rod"
+		}],
+		count: 16L
+	}]
+}

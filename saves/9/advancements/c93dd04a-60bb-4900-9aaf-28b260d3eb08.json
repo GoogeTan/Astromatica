@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2021-10-26 17:19:47 +0300"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2021-10-26 17:19:24 +0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-10-26 17:19:24 +0300"
+    },
+    "done": true
+  },
+  "mist:story/start": {
+    "criteria": {
+      "start": "2021-10-26 17:19:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2021-10-26 17:19:33 +0300",
+      "plains": "2021-10-26 17:19:21 +0300",
+      "river": "2021-10-26 17:19:32 +0300"
+    },
+    "done": false
+  },
+  "mist:story/root": {
+    "criteria": {
+      "root": "2021-10-26 17:19:21 +0300"
+    },
+    "done": true
+  }
+}

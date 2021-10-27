@@ -1,0 +1,13 @@
+{
+	title: "Нам нужно идти глубже",
+	x: 12.0d,
+	y: -3.5d,
+	dependencies: [
+		"27612689"
+	],
+	tasks: [{
+		uid: "f0fcc1a4",
+		type: "dimension",
+		dim: -1
+	}]
+}

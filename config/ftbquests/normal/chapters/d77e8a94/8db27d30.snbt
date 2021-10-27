@@ -1,0 +1,16 @@
+{
+	title: "Верстак РосКосмос",
+	x: 1.5d,
+	y: 7.0d,
+	shape: "diamond",
+	dependencies: [
+		"329a305e"
+	],
+	tasks: [{
+		uid: "026a2b58",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}]
+}

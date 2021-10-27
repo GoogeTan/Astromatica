@@ -1,0 +1,54 @@
+{
+	title: "Железный человек",
+	x: 1.5d,
+	y: -10.5d,
+	shape: "octagon",
+	dependencies: [
+		"5007ba1a"
+	],
+	tasks: [{
+		uid: "19659f75",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 64L
+	},
+	{
+		uid: "1022bcbc",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 3"
+		}],
+		count: 64L
+	},
+	{
+		uid: "ca2de557",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 5"
+		}],
+		count: 64L
+	},
+	{
+		uid: "5f13f07a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 4"
+		}],
+		count: 64L
+	},
+	{
+		uid: "bc48983c",
+		type: "item",
+		items: [{
+			item: "futuremc:netherite_ingot"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "77d14cac",
+		type: "xp_levels",
+		xp_levels: 30
+	}]
+}

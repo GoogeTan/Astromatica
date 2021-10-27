@@ -1,0 +1,54 @@
+{
+	title: "Шашлычок",
+	x: -4.5d,
+	y: -8.0d,
+	shape: "octagon",
+	dependencies: [
+		"a72e6b5b"
+	],
+	tasks: [{
+		uid: "8a7cd997",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_beef"
+		}],
+		count: 64L
+	},
+	{
+		uid: "6619169c",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_chicken"
+		}],
+		count: 64L
+	},
+	{
+		uid: "420a5915",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_rabbit"
+		}],
+		count: 48L
+	},
+	{
+		uid: "301f48ed",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_porkchop"
+		}],
+		count: 64L
+	},
+	{
+		uid: "52e10d03",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_fish 1 1"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "570219dd",
+		type: "xp_levels",
+		xp_levels: 35
+	}]
+}

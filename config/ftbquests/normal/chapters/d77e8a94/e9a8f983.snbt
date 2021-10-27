@@ -1,0 +1,15 @@
+{
+	title: "Жги, жги - мы же миллионеры",
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"74fe2e75"
+	],
+	tasks: [{
+		uid: "adfb3bfc",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine"
+		}]
+	}]
+}

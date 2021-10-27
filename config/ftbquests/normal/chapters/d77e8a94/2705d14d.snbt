@@ -1,0 +1,12 @@
+{
+	x: 22.0d,
+	y: -3.5d,
+	dependencies: [
+		"681e7336"
+	],
+	tasks: [{
+		uid: "c1827fc3",
+		type: "dimension",
+		dim: 1
+	}]
+}

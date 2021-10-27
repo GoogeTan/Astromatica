@@ -1,0 +1,23 @@
+{
+	title: "Магические ритуалы",
+	x: 1.5d,
+	y: 14.0d,
+	dependencies: [
+		"1d2f0848"
+	],
+	tasks: [{
+		uid: "8daf2f43",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockritualpedestal"
+		}]
+	},
+	{
+		uid: "bf45d820",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockrituallink"
+		}],
+		count: 2L
+	}]
+}

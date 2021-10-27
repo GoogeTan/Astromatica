@@ -1,0 +1,34 @@
+{
+	title: "Колдуны, да ведьмы",
+	x: 8.5d,
+	y: 7.0d,
+	dependencies: [
+		"9e8cd8aa"
+	],
+	tasks: [{
+		uid: "f658c50f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c21e016f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Сжиматель великий",
+	x: 1.5d,
+	y: 3.5d,
+	dependencies: [
+		"fe3867be"
+	],
+	tasks: [{
+		uid: "932c66e2",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine 1 12"
+		}]
+	}]
+}

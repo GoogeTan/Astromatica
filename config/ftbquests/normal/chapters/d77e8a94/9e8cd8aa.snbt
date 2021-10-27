@@ -1,0 +1,16 @@
+{
+	title: "Голубое озеро",
+	x: 8.5d,
+	y: 3.5d,
+	dependencies: [
+		"db721b9c"
+	],
+	tasks: [{
+		uid: "4446e0cf",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent"
+		}],
+		count: 64L
+	}]
+}

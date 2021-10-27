@@ -1,0 +1,24 @@
+{
+	x: 12.0d,
+	y: -10.5d,
+	shape: "pentagon",
+	dependencies: [
+		"0f72b376"
+	],
+	tasks: [{
+		uid: "dc8c8c64",
+		type: "advancement",
+		advancement: "minecraft:nether/create_full_beacon",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "4209fa4e",
+		type: "xp_levels",
+		xp_levels: 100
+	},
+	{
+		uid: "8665d73a",
+		type: "item",
+		item: "minecraft:golden_apple 1 1"
+	}]
+}

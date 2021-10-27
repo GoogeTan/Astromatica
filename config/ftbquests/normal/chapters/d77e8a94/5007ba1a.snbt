@@ -1,0 +1,15 @@
+{
+	title: "Тигель",
+	x: 1.5d,
+	y: -7.0d,
+	dependencies: [
+		"ed64359b"
+	],
+	tasks: [{
+		uid: "99e95df0",
+		type: "item",
+		items: [{
+			item: "futuremc:blast_furnace"
+		}]
+	}]
+}

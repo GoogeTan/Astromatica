@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: 10.0d,
+	dependencies: [
+		"d25c271f"
+	],
+	tasks: [{
+		uid: "ea6f38e3",
+		type: "advancement",
+		advancement: "galacticraftcore:galacticraft/moon",
+		criterion: ""
+	},
+	{
+		uid: "ad8f3e34",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:item_basic_moon 1 2"
+		}],
+		count: 16L
+	}]
+}

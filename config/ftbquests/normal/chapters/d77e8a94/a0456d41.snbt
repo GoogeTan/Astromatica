@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: -0.5d,
+	dependencies: [
+		"cb5323e3"
+	],
+	tasks: [{
+		uid: "d6738f8f",
+		type: "item",
+		items: [{
+			item: "futuremc:netherite_scrap"
+		}],
+		count: 32L
+	}]
+}

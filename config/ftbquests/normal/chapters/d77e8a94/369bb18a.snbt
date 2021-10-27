@@ -1,0 +1,22 @@
+{
+	title: "Камень Ли",
+	x: -2.5d,
+	y: -3.5d,
+	dependencies: [
+		"0bea9109"
+	],
+	tasks: [{
+		uid: "5674cf79",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "1b78a836",
+		type: "item",
+		item: "minecraft:coal_ore",
+		count: 16
+	}]
+}

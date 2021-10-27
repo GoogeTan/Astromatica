@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: -7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"cb5323e3",
+		"554bdb5e"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "0d95798d",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}]
+}

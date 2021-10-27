@@ -1,0 +1,57 @@
+{
+	title: "Бесконечность - не предел",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"2c66c622"
+	],
+	tasks: [{
+		uid: "e19a4444",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 6"
+		}],
+		count: 64L
+	},
+	{
+		uid: "79f44f40",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 7"
+		}],
+		count: 64L
+	},
+	{
+		uid: "7e19ad98",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 8"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b5bc065b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 9"
+		}],
+		count: 64L
+	},
+	{
+		uid: "72caf02d",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 10"
+		}],
+		count: 64L
+	},
+	{
+		uid: "d7a9cd05",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 11"
+		}],
+		count: 64L
+	}]
+}

@@ -1,0 +1,137 @@
+{
+	title: "Тебе еще пригодится",
+	icon: "astralsorcery:blockmarble 1 6",
+	x: 5.0d,
+	y: 7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"39b76faf"
+	],
+	tasks: [{
+		uid: "ccca0e0d",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}],
+		count: 64L
+	},
+	{
+		uid: "d6e41000",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3359b66b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "751acabe",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 3"
+		}],
+		count: 64L
+	},
+	{
+		uid: "240b78ff",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 4"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b11c96f7",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 5"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3a60b6ee",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 6"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3da20db8",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble"
+		}],
+		count: 64L
+	},
+	{
+		uid: "53f53d36",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 1"
+		}],
+		count: 64L
+	},
+	{
+		uid: "297f268b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 2"
+		}],
+		count: 64L
+	},
+	{
+		uid: "1396e40a",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 4"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3d69fd10",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 6"
+		}],
+		count: 64L
+	},
+	{
+		uid: "186bdd60",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 3"
+		}],
+		count: 64L
+	},
+	{
+		uid: "45c5cd9f",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble 1 5"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "825621f9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemsextant",
+			tag: {
+				astralsorcery: {
+					advanced: 1b
+				}
+			}
+		}
+	}]
+}

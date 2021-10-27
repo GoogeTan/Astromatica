@@ -1,0 +1,20 @@
+{
+	title: "Fly me to the moon",
+	x: -2.0d,
+	y: 7.0d,
+	dependencies: [
+		"c297298f",
+		"8db27d30"
+	],
+	tasks: [{
+		uid: "d35aa67b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

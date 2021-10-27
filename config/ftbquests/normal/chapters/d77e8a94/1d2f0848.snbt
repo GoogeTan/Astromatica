@@ -1,0 +1,22 @@
+{
+	title: "Я вижу свет",
+	x: 5.0d,
+	y: 14.0d,
+	dependencies: [
+		"329a305e",
+		"20fbae0e"
+	],
+	tasks: [{
+		uid: "4ef9bea6",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementaltar"
+		}]
+	},
+	{
+		uid: "74f8dea3",
+		type: "advancement",
+		advancement: "astralsorcery:attune_self",
+		criterion: ""
+	}]
+}

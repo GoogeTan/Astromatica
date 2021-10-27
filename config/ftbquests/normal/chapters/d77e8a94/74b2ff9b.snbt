@@ -1,0 +1,16 @@
+{
+	title: "По ту сторону врат",
+	x: 12.0d,
+	y: 10.5d,
+	dependencies: [
+		"d812f124"
+	],
+	tasks: [{
+		uid: "6b62d852",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcelestialgateway"
+		}],
+		count: 4L
+	}]
+}

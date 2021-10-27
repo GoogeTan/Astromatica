@@ -1,0 +1,15 @@
+{
+	title: "Гари-гари ясно",
+	x: 1.5d,
+	y: -3.5d,
+	dependencies: [
+		"369bb18a"
+	],
+	tasks: [{
+		uid: "41362166",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

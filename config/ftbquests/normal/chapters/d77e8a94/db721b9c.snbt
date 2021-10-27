@@ -1,0 +1,23 @@
+{
+	title: "Когда часы 12 бьют",
+	x: 8.5d,
+	y: 0.0d,
+	dependencies: [
+		"27612689"
+	],
+	tasks: [{
+		uid: "2c380aa2",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	},
+	{
+		uid: "8c032383",
+		type: "item",
+		items: [{
+			item: "minecraft:bookshelf"
+		}],
+		count: 20L
+	}]
+}
