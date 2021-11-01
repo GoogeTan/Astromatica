@@ -1,0 +1,8 @@
+[
+	{
+		"modId" : "galacticraft",
+		"name" : "compressed_starmetal",
+		"creativeTab" : "redstone",
+		"maxStackSize" : 64
+	}
+]

@@ -1,6 +1,6 @@
 {
 	title: "Буратино",
-	x: -7.0d,
+	x: -5.5d,
 	y: -3.5d,
 	shape: "diamond",
 	tasks: [{

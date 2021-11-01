@@ -1,6 +1,6 @@
 {
-	x: 5.0d,
-	y: 17.0d,
+	x: 8.5d,
+	y: 14.0d,
 	shape: "pentagon",
 	dependencies: [
 		"1d2f0848"
@@ -309,6 +309,16 @@
 					id: 70s
 				}]
 			}
+		}
+	},
+	{
+		uid: "5848c3c8",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "baubles:ring"
 		}
 	}]
 }

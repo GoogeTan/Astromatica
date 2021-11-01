@@ -1,6 +1,8 @@
 {
   "version": 2,
   "data": {
+    "buildcraftenergy:oil_desert": "DESERT",
+    "buildcraftenergy:oil_ocean": "WATER",
     "galacticraftcore:outer space": "PLAINS",
     "galacticraftplanets:outer space 1": "PLAINS",
     "galacticraftplanets:outer space 2": "PLAINS",

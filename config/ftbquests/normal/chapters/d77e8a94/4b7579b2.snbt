@@ -1,0 +1,14 @@
+{
+	title: "I will play among the stars",
+	x: -5.5d,
+	y: 7.0d,
+	dependencies: [
+		"d25c271f"
+	],
+	tasks: [{
+		uid: "d05ab2b8",
+		type: "advancement",
+		advancement: "galacticraftcore:galacticraft/create_space_station",
+		criterion: ""
+	}]
+}

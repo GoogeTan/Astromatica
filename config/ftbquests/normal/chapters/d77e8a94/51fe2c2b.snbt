@@ -1,5 +1,5 @@
 {
-	x: 25.0d,
+	x: 26.0d,
 	y: -3.5d,
 	shape: "octagon",
 	dependencies: [

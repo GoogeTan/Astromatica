@@ -1,0 +1,13 @@
+
+*.gz
+/.idea/
+/logs/
+/saves/
+/screenshots/
+usercache.json
+usernamecache.json
+options.txt
+optionsof.txt
+/astralsorcery/
+/assets/
+.curseclient
