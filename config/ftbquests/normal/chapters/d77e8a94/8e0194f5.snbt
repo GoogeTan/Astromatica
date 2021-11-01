@@ -1,0 +1,56 @@
+{
+	x: 26.0d,
+	y: 3.5d,
+	shape: "pentagon",
+	dependencies: [
+		"24cb0ccc"
+	],
+	tasks: [{
+		uid: "75210152",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:iron_shulker_box_purple",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9dacf350",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:iron_shulker_box_purple",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1efde642",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:iron_shulker_box_purple",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4f6470c0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:iron_shulker_box_purple",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	}]
+}

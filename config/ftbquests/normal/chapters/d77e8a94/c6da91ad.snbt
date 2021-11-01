@@ -1,5 +1,6 @@
 {
-	x: 15.5d,
+	title: "Tankodrom",
+	x: 12.0d,
 	y: 3.5d,
 	shape: "octagon",
 	dependencies: [

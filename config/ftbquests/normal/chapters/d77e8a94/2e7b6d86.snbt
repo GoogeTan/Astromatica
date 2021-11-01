@@ -1,0 +1,55 @@
+{
+	x: 5.0d,
+	y: 3.5d,
+	dependencies: [
+		"e9a8f983"
+	],
+	tasks: [{
+		uid: "6b0d8fb8",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "32c17924",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ce328538",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "146e184f",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

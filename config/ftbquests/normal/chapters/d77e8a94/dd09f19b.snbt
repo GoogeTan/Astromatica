@@ -133,5 +133,15 @@
 				}
 			}
 		}
+	},
+	{
+		uid: "63c0e70c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:diamond_crystal_chest_upgrade"
+		}
 	}]
 }

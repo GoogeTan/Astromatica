@@ -4,7 +4,7 @@
 	y: 10.5d,
 	shape: "diamond",
 	dependencies: [
-		"329a305e"
+		"99fd1e4e"
 	],
 	tasks: [{
 		uid: "026a2b58",

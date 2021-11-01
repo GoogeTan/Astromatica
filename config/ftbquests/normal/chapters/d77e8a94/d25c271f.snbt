@@ -1,7 +1,7 @@
 {
 	title: "Fly me to the moon",
 	x: -2.0d,
-	y: 7.0d,
+	y: 10.5d,
 	dependencies: [
 		"c297298f",
 		"8db27d30"
@@ -15,6 +15,118 @@
 			},
 			id: "galacticraftcore:rocket_t1"
 		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1dcde1f0",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}]
+	},
+	{
+		uid: "ffa2e223",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_gear"
+		}]
+	},
+	{
+		uid: "51687447",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 19"
+		}]
+	},
+	{
+		uid: "ecdf10c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:parachute"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a288b2c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7a399261",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "15780bc8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "84f49bd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftplanets:thermal_padding",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "80659c1c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7300571724350493944L,
+					AS_Amulet_HolderMost: -3945768680637642496L
+				}
+			},
+			id: "galacticraftcore:oxygen_tank_heavy_full",
+			Damage: 2700s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "51459ee1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7300571724350493944L,
+					AS_Amulet_HolderMost: -3945768680637642496L
+				}
+			},
+			id: "galacticraftcore:oxygen_tank_heavy_full",
+			Damage: 2700s
+		}],
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}]
 }

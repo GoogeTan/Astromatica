@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 7.0d,
+	dependencies: [
+		"9ea5474f"
+	],
+	tasks: [{
+		uid: "aac8d886",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered 1 8"
+		}],
+		count: 4L
+	}]
+}

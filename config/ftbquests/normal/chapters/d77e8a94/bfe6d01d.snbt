@@ -1,0 +1,28 @@
+{
+	x: -2.0d,
+	y: 17.0d,
+	dependencies: [
+		"6b83b4c5",
+		"2bd0d8ea"
+	],
+	tasks: [{
+		uid: "4e569b4f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:buggy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7bd49ff0",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad 1 1"
+		}],
+		count: 9L
+	}]
+}

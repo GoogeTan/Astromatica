@@ -1,10 +1,10 @@
 {
 	title: "Бесконечность - не предел",
-	x: 1.5d,
-	y: 0.0d,
+	x: -5.5d,
+	y: 7.0d,
 	shape: "hexagon",
 	dependencies: [
-		"2c66c622"
+		"c297298f"
 	],
 	tasks: [{
 		uid: "e19a4444",
@@ -53,5 +53,15 @@
 			item: "galacticraftcore:basic_item 1 11"
 		}],
 		count: 64L
+	}],
+	rewards: [{
+		uid: "129df673",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:diamond_crystal_chest_upgrade"
+		}
 	}]
 }

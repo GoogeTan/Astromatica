@@ -320,5 +320,15 @@
 			},
 			id: "baubles:ring"
 		}
+	},
+	{
+		uid: "1c163c3a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ironchest:diamond_crystal_chest_upgrade"
+		}
 	}]
 }

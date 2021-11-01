@@ -8,8 +8,26 @@
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] Adding Compressor Recipe: Input 1 <astralsorcery:itemcraftingcomponent:1> Input 2 <astralsorcery:itemcraftingcomponent:1> Input 3 null Input 4 null Input 5 null Input 6 null Input 7 null Input 8 null Input 9 null to Output <galacticraft:compressed_starmetal> * 2
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 1951ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 305ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Heavy Aluminum Wire with name ct_shaped-1453836149
-[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Land Mark with name ct_shapeless1772244750
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Карьер with name ct_shaped440692113
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Шаблон Улучшения with name ct_shaped156187136
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (V) with name ct_shaped-1194008199
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (IV) with name ct_shaped-2059602790
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (III) with name ct_shaped359879436
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (II) with name ct_shaped1373101692
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (I) with name ct_shaped1394611508
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Контроллер Ящика with name ct_shaped1152686083
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Сумка Края with name ct_shaped-1615702899
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Цистерна Края with name ct_shaped742785875
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Сундук Края with name ct_shaped-799729118
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из золотого в алмазный сундук with name ct_shaped1674092234
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из железного в золотой Шалкеровый ящик with name ct_shaped2122601716
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из обычного в железный Шалкеровый ящик with name ct_shaped1121805134
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из золотого в алмазный сундук with name ct_shaped1572048991
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из железного в золотой сундук with name ct_shaped-285400494
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение из деревянного в железный сундук with name ct_shaped-2086429048
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Распределитель кислородного пузыря with name ct_shaped338115730
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Толстый алюминиевый провод with name ct_shaped-1453836149
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Метка with name ct_shapeless1772244750
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook

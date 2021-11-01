@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	dependencies: [
+		"2e7b6d86"
+	],
+	tasks: [{
+		uid: "c503300b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered"
+		}],
+		count: 4L
+	}]
+}
