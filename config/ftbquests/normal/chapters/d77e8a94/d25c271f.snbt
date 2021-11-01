@@ -1,11 +1,14 @@
 {
 	title: "Fly me to the moon",
-	x: -2.0d,
-	y: 10.5d,
+	x: 8.5d,
+	y: 14.0d,
+	shape: "octagon",
 	dependencies: [
-		"c297298f",
-		"8db27d30"
+		"8db27d30",
+		"f3950642",
+		"2329b12e"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "d35aa67b",
 		type: "item",
@@ -128,5 +131,13 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "1695e4ef",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad"
+		}],
+		count: 9L
 	}]
 }

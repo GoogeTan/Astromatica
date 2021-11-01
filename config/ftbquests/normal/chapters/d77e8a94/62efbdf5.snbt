@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 10.5d,
+	dependencies: [
+		"2c66c622"
+	],
+	tasks: [{
+		uid: "3dc0b273",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:pump"
+		}]
+	}]
+}

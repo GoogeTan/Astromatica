@@ -1,7 +1,7 @@
 {
-	title: "По ту сторону",
-	x: 12.0d,
-	y: 10.5d,
+	title: "On the other side",
+	x: 15.5d,
+	y: 3.5d,
 	dependencies: [
 		"d812f124"
 	],

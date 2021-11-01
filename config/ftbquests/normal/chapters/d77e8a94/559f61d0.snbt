@@ -1,11 +1,12 @@
 {
 	title: "Бесконечность - не предел",
-	x: -5.5d,
-	y: 7.0d,
+	x: -2.0d,
+	y: 14.0d,
 	shape: "hexagon",
 	dependencies: [
-		"c297298f"
+		"aacbe357"
 	],
+	dependency_requirement: "one_completed",
 	tasks: [{
 		uid: "e19a4444",
 		type: "item",

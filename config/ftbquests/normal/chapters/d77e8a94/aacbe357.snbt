@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: 10.5d,
+	dependencies: [
+		"2c66c622"
+	],
+	tasks: [{
+		uid: "1d263242",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2"
+		}]
+	},
+	{
+		uid: "b4216831",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered 1 4"
+		}]
+	}]
+}

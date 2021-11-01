@@ -1,18 +1,17 @@
 {
-	title: "Опытные маги",
-	x: 15.5d,
-	y: 7.0d,
+	x: 1.5d,
+	y: 14.0d,
 	dependencies: [
-		"39b76faf"
+		"9cd67f6c"
 	],
 	tasks: [{
-		uid: "97a97f90",
+		uid: "d03b6855",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "astralsorcery:blockaltar",
+			id: "galacticraftcore:fuel_canister_partial",
 			Damage: 1s
 		}],
 		ignore_nbt: 1b

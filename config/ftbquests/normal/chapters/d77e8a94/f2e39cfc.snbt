@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: 14.0d,
+	dependencies: [
+		"62efbdf5"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "04b98292",
+		type: "item",
+		title: "Бесконечное хранилище",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}]
+	}]
+}

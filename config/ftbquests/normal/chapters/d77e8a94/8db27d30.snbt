@@ -1,6 +1,6 @@
 {
 	title: "Верстак РосКосмос",
-	x: 1.5d,
+	x: 8.5d,
 	y: 10.5d,
 	shape: "diamond",
 	dependencies: [

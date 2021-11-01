@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-11-01T12:44:20.219255Z",
-  "playedCount": 56,
+  "lastPlayed": "2021-11-01T15:26:57.6203326Z",
+  "playedCount": 59,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1613,6 +1613,94 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 267193,
+      "gameInstanceID": "b3e00557-fead-4e02-93c9-f2428e61deeb",
+      "installedFile": {
+        "id": 3490718,
+        "displayName": "Chunk Pregenerator-V1.12-2.5.1",
+        "fileName": "Chunk Pregenerator-V1.12-2.5.1.jar",
+        "fileDate": "2021-10-14T09:16:25.27Z",
+        "fileLength": 543872,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3490/718/Chunk Pregenerator-V1.12-2.5.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3838887051,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pregenerator",
+            "fingerprint": 2670515777,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2722055263,
+        "gameVersion": [
+          "1.12.1",
+          "1.12",
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000001",
+            "gameVersion": "1.12.1",
+            "gameVersionReleaseDate": "2017-08-03T05:00:00Z",
+            "gameVersionName": "1.12.1",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012",
+            "gameVersion": "1.12",
+            "gameVersionReleaseDate": "2017-06-07T05:00:00Z",
+            "gameVersionName": "1.12",
+            "gameVersionTypeId": 628
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2539735,
+        "projectId": 267193,
+        "packageFingerprintId": 762019839,
+        "gameVersionDateReleased": "2007-07-01T05:00:00Z",
+        "gameVersionMappingId": 3381014,
+        "gameVersionId": 4457,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Chunk Pregenerator-V1.12-2.5.1.jar"
+      },
+      "dateInstalled": "2021-11-01T12:45:19.0322199Z",
+      "dateUpdated": "2021-11-01T12:45:19.0507285Z",
+      "dateLastUpdateAttempted": "2021-11-01T12:45:19.0507285Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 250898,

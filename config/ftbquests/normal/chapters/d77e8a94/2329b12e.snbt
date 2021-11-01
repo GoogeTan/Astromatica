@@ -1,0 +1,47 @@
+{
+	x: 5.0d,
+	y: 10.5d,
+	dependencies: [
+		"2c66c622"
+	],
+	tasks: [{
+		uid: "aacbf19a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor"
+		}]
+	},
+	{
+		uid: "0d317030",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 8"
+		}]
+	},
+	{
+		uid: "906cd554",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:collector"
+		}]
+	},
+	{
+		uid: "1a10195e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeLeaves",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any treeLeaves"
+				}
+			}
+		}],
+		count: 32L
+	}]
+}

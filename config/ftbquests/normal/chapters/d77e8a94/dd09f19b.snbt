@@ -1,7 +1,7 @@
 {
 	title: "Тебе еще пригодится",
 	icon: "astralsorcery:blockmarble 1 6",
-	x: 5.0d,
+	x: 12.0d,
 	y: 7.0d,
 	shape: "hexagon",
 	dependencies: [
