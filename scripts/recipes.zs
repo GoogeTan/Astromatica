@@ -128,6 +128,7 @@ recipes.remove(<galacticraftcore:distributor>);
 recipes.remove(<galacticraftcore:aluminum_wire:1>);
 recipes.remove(<buildcraftcore:marker_volume>);
 mods.GalacticraftTweaker.removeCompressorRecipe(<galacticraftcore:heavy_plating> * 2);
+mods.astralsorcery.Altar.removeAltarRecipe(<astralsorcery:blockaltar:2>, 1);
 //Don't touch me!
 //#Add
 recipes.addShaped(<buildcraftbuilders:quarry>, [[<galacticraftplanets:item_basic_mars:5>, <minecraft:sticky_piston>, <galacticraftplanets:item_basic_mars:5>],[<galacticraftcore:aluminum_wire:1>, <galacticraftcore:machine_tiered>, <galacticraftcore:aluminum_wire:1>], [<galacticraftplanets:item_basic_mars:5>, <minecraft:tnt>, <galacticraftplanets:item_basic_mars:5>]]);
@@ -152,5 +153,9 @@ recipes.addShaped(<galacticraftcore:aluminum_wire:1>, [[null, <ore:rubber>, null
 recipes.addShapeless(<buildcraftcore:marker_volume>, [<ore:gemLapis>,<astralsorcery:itemcraftingcomponent:4>,<futuremc:soul_fire_torch>]);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraft:compressed_starmetal> * 2, <astralsorcery:itemcraftingcomponent:1> * 1, <astralsorcery:itemcraftingcomponent:1> * 1);
 mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftcore:heavy_plating> * 2, <galacticraftcore:basic_item:9>, <galacticraftcore:basic_item:10>, <galacticraft:compressed_starmetal>, <galacticraftcore:basic_item:9>, <galacticraftcore:basic_item:8>, <galacticraft:compressed_starmetal>);
-
+mods.astralsorcery.Altar.addAttunementAltarRecipe("astromatica:shaped/internal/altar/iguessmarble", <astralsorcery:blockaltar:2>, 500, 300, [
+            <astralsorcery:itemcraftingcomponent:2>, null, <astralsorcery:itemcraftingcomponent:2>,
+            <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>,
+            <astralsorcery:blockmarble:4>, <astralsorcery:itemcraftingcomponent:1>, <astralsorcery:blockmarble:4>,
+            <galacticraftcore:item_basic_moon:2>, <galacticraftcore:item_basic_moon:2>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>]);
 //File End

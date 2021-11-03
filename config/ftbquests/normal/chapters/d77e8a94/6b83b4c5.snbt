@@ -1,6 +1,7 @@
 {
-	x: 12.0d,
-	y: 14.0d,
+	title: "The eye of moon",
+	x: 8.5d,
+	y: 20.5d,
 	dependencies: [
 		"d25c271f"
 	],

@@ -1,18 +1,19 @@
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
 [PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
 [PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 3ms
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][INFO] Removing Compressor Recipe: for Output <galacticraftcore:heavy_plating> * 2
+[INITIALIZATION][CLIENT][ERROR] [AstralSorcery Altar Crafting] Using deprecated 'removeAltarRecipe'! Use the new method to remove recipes by their registry-name!
+[INITIALIZATION][CLIENT][ERROR] [AstralSorcery Altar Crafting] Enable the F3-Debug screen and hover over the receipe output of an altar recipe to see existing ones!
 [INITIALIZATION][CLIENT][INFO] Adding Compressor Recipe: Input 1 <astralsorcery:itemcraftingcomponent:1> Input 2 <astralsorcery:itemcraftingcomponent:1> Input 3 null Input 4 null Input 5 null Input 6 null Input 7 null Input 8 null Input 9 null to Output <galacticraft:compressed_starmetal> * 2
 [INITIALIZATION][CLIENT][INFO] Adding Compressor Recipe: Input 1 <galacticraftcore:basic_item:9> Input 2 <galacticraftcore:basic_item:10> Input 3 <galacticraft:compressed_starmetal> Input 4 <galacticraftcore:basic_item:9> Input 5 <galacticraftcore:basic_item:8> Input 6 <galacticraft:compressed_starmetal> Input 7 null Input 8 null Input 9 null to Output <galacticraftcore:heavy_plating> * 2
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2723ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2288ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
-[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Сверхпрочная пластина with name ct_shaped1308594138
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Карьер with name ct_shaped440692113
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Шаблон Улучшения with name ct_shaped156187136
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Улучшение Хранилища (V) with name ct_shaped-1194008199

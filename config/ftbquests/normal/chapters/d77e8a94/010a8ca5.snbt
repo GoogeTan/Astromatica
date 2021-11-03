@@ -1,0 +1,21 @@
+{
+	x: 8.5d,
+	y: 14.0d,
+	dependencies: [
+		"2329b12e"
+	],
+	tasks: [{
+		uid: "0297d773",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor"
+		}]
+	},
+	{
+		uid: "f61b536f",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 8"
+		}]
+	}]
+}

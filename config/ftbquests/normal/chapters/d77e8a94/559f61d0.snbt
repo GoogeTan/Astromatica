@@ -1,6 +1,6 @@
 {
 	title: "Бесконечность - не предел",
-	x: -2.0d,
+	x: 1.5d,
 	y: 14.0d,
 	shape: "hexagon",
 	dependencies: [

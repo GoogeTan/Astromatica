@@ -1,6 +1,6 @@
 {
 	title: "Нанотехналогии",
-	x: 0.0d,
+	x: 1.5d,
 	y: 3.5d,
 	dependencies: [
 		"e9a8f983"
