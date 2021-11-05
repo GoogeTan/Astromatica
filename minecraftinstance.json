@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-11-03T17:20:51.9721911Z",
-  "playedCount": 66,
+  "lastPlayed": "2021-11-05T05:22:07.1192828Z",
+  "playedCount": 67,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5130,14 +5130,14 @@
       "addonID": 239197,
       "gameInstanceID": "b3e00557-fead-4e02-93c9-f2428e61deeb",
       "installedFile": {
-        "id": 3507384,
-        "displayName": "CraftTweaker2-1.12-4.1.20.666.jar",
-        "fileName": "CraftTweaker2-1.12-4.1.20.666.jar",
-        "fileDate": "2021-10-28T11:52:41.927Z",
-        "fileLength": 1563844,
+        "id": 3515080,
+        "displayName": "CraftTweaker2-1.12-4.1.20.669.jar",
+        "fileName": "CraftTweaker2-1.12-4.1.20.669.jar",
+        "fileDate": "2021-11-04T09:28:29.03Z",
+        "fileLength": 1571433,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3507/384/CraftTweaker2-1.12-4.1.20.666.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3515/80/CraftTweaker2-1.12-4.1.20.669.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5145,19 +5145,19 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1998827987,
+            "fingerprint": 1985512771,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "stanhebben",
-            "fingerprint": 939147020,
+            "fingerprint": 2199387668,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "crafttweaker",
-            "fingerprint": 2459069038,
+            "fingerprint": 273485457,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -5175,7 +5175,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1509285472,
+            "fingerprint": 4077025248,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -5186,7 +5186,7 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2500235574,
+        "packageFingerprint": 2204060448,
         "gameVersion": [
           "1.12.2"
         ],
@@ -5204,20 +5204,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2560762,
+        "renderCacheId": 2570511,
         "projectId": 239197,
-        "packageFingerprintId": 772122820,
+        "packageFingerprintId": 776957357,
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 3419998,
+        "gameVersionMappingId": 3439473,
         "gameVersionId": 6756,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.666.jar"
+        "FileNameOnDisk": "CraftTweaker2-1.12-4.1.20.669.jar"
       },
       "dateInstalled": "2021-10-25T10:08:07.326451Z",
-      "dateUpdated": "2021-10-30T06:53:55.4374918Z",
-      "dateLastUpdateAttempted": "2021-10-30T06:53:55.4374918Z",
-      "status": 3,
+      "dateUpdated": "2021-11-05T05:22:00.7921879Z",
+      "dateLastUpdateAttempted": "2021-11-05T05:22:00.7921879Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

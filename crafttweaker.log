@@ -12,7 +12,7 @@
 [INITIALIZATION][CLIENT][ERROR] [AstralSorcery Altar Crafting] Enable the F3-Debug screen and hover over the receipe output of an altar recipe to see existing ones!
 [INITIALIZATION][CLIENT][INFO] Adding Compressor Recipe: Input 1 <astralsorcery:itemcraftingcomponent:1> Input 2 <astralsorcery:itemcraftingcomponent:1> Input 3 null Input 4 null Input 5 null Input 6 null Input 7 null Input 8 null Input 9 null to Output <galacticraft:compressed_starmetal> * 2
 [INITIALIZATION][CLIENT][INFO] Adding Compressor Recipe: Input 1 <galacticraftcore:basic_item:9> Input 2 <galacticraftcore:basic_item:10> Input 3 <galacticraft:compressed_starmetal> Input 4 <galacticraftcore:basic_item:9> Input 5 <galacticraftcore:basic_item:8> Input 6 <galacticraft:compressed_starmetal> Input 7 null Input 8 null Input 9 null to Output <galacticraftcore:heavy_plating> * 2
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 2288ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 327ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Карьер with name ct_shaped440692113
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Шаблон Улучшения with name ct_shaped156187136
