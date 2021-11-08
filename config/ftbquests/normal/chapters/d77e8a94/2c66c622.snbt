@@ -1,6 +1,6 @@
 {
 	title: "Сжиматель великий",
-	x: 1.5d,
+	x: 5.0d,
 	y: 7.0d,
 	dependencies: [
 		"fe3867be"
