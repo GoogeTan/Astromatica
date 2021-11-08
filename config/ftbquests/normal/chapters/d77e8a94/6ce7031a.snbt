@@ -1,18 +1,19 @@
 {
-	x: 8.5d,
-	y: 34.0d,
+	x: 26.0d,
+	y: -14.0d,
 	dependencies: [
-		"ac117a31"
+		"6f9032e5"
 	],
 	tasks: [{
-		uid: "cc09e746",
+		uid: "b2c4184b",
 		type: "item",
 		items: [{
 			ForgeCaps: {
 				"astralsorcery:cap_item_amulet_holder": {}
 			},
-			id: "galacticraftplanets:rocket_t3"
+			id: "mist:respirator_single"
 		}],
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}]
 }

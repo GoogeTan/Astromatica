@@ -1,0 +1,15 @@
+{
+	x: 26.0d,
+	y: -7.0d,
+	dependencies: [
+		"6f9032e5"
+	],
+	tasks: [{
+		uid: "73dd67f9",
+		type: "item",
+		items: [{
+			item: "mist:stone_brick"
+		}],
+		count: 16L
+	}]
+}

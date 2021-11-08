@@ -1,0 +1,15 @@
+{
+	x: 29.5d,
+	y: -10.5d,
+	dependencies: [
+		"027047cd"
+	],
+	tasks: [{
+		uid: "8298dbe1",
+		type: "item",
+		items: [{
+			item: "mist:rubber"
+		}],
+		count: 32L
+	}]
+}

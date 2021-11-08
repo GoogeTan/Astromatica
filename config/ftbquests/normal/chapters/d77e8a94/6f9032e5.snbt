@@ -1,0 +1,14 @@
+{
+	x: 22.5d,
+	y: -10.5d,
+	dependencies: [
+		"a528d788"
+	],
+	tasks: [{
+		uid: "ecc62e50",
+		type: "item",
+		items: [{
+			item: "mist:niobium_ingot"
+		}]
+	}]
+}

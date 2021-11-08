@@ -1,0 +1,15 @@
+{
+	x: 29.5d,
+	y: -14.0d,
+	dependencies: [
+		"6ce7031a"
+	],
+	tasks: [{
+		uid: "2ea349d1",
+		type: "item",
+		items: [{
+			item: "mist:sponge_fibre"
+		}],
+		count: 16L
+	}]
+}
