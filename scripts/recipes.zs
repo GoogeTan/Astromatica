@@ -165,5 +165,5 @@ mods.astralsorcery.Altar.addAttunementAltarRecipe("astromatica:shaped/internal/a
             <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>,
             <astralsorcery:blockmarble:4>, <astralsorcery:itemcraftingcomponent:1>, <astralsorcery:blockmarble:4>,
             <galacticraftcore:item_basic_moon:2>, <galacticraftcore:item_basic_moon:2>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>]);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftplanets:item_basic_asteroids:5> * 2, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>],[<galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>, <mist:niobium_ingot>, <mist:niobium_ingot>);
+mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftplanets:item_basic_asteroids:5> * 2, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>],<galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>, <mist:niobium_ingot>, <mist:niobium_ingot>);
 //File End
