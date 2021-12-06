@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<astralsorcery:blockblackmarble>);
 recipes.remove(<galacticraftplanets:heavy_nose_cone>);
 recipes.remove(<galacticraftcore:nose_cone>);
 recipes.remove(<galacticraftcore:collector>);
@@ -135,6 +136,8 @@ mods.GalacticraftTweaker.removeCompressorRecipe(<galacticraftplanets:item_basic_
 mods.astralsorcery.Altar.removeAltarRecipe(<astralsorcery:blockaltar:2>, 1);
 //Don't touch me!
 //#Add
+recipes.addShaped(<galacticraftcore:aluminum_wire> * 32, [[<ore:wool>, <ore:wool>, <ore:wool>],[<mist:niobium_ingot>, <mist:niobium_ingot>, <mist:niobium_ingot>], [<ore:wool>, <ore:wool>, <ore:wool>]]);
+recipes.addShaped(<astralsorcery:blockblackmarble> * 4, [[<astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>],[<astralsorcery:blockmarble>, <minecraft:coal>, <astralsorcery:blockmarble>], [<astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>]]);
 recipes.addShaped(<buildcraftbuilders:quarry>, [[<galacticraftcore:aluminum_wire:1>, <galacticraftcore:basic_item:14>, <galacticraftcore:aluminum_wire:1>],[<galacticraftcore:machine_tiered:8>, <minecraft:sticky_piston>, <minecraft:sticky_piston>], [<astralsorcery:itemcoloredlens:1>, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:3>]]);
 recipes.addShaped(<galacticraftplanets:heavy_nose_cone>, [[<buildcraftcore:marker_volume>, <galacticraftplanets:item_basic_asteroids:5>, <buildcraftcore:marker_volume>],[<galacticraftplanets:item_basic_asteroids:5>, <astralsorcery:itemcoloredlens:6>, <galacticraftplanets:item_basic_asteroids:5>], [<galacticraftplanets:item_basic_asteroids:5>, <astralsorcery:itemcoloredlens:5>, <galacticraftplanets:item_basic_asteroids:5>]]);
 recipes.addShaped(<galacticraftcore:nose_cone>, [[null, <buildcraftcore:marker_volume>, null],[null, <galacticraftplanets:item_basic_mars:3>, null], [<galacticraftplanets:item_basic_mars:3>, <astralsorcery:itemcoloredlens:5>, <galacticraftplanets:item_basic_mars:3>]]);
@@ -165,5 +168,6 @@ mods.astralsorcery.Altar.addAttunementAltarRecipe("astromatica:shaped/internal/a
             <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>, <astralsorcery:blockmarble:2>,
             <astralsorcery:blockmarble:4>, <astralsorcery:itemcraftingcomponent:1>, <astralsorcery:blockmarble:4>,
             <galacticraftcore:item_basic_moon:2>, <galacticraftcore:item_basic_moon:2>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>]);
-mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftplanets:item_basic_asteroids:5> * 2, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>],<galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>, <mist:niobium_ingot>, <mist:niobium_ingot>);
+mods.GalacticraftTweaker.addCompressorShapelessRecipe(<galacticraftplanets:item_basic_asteroids:5> * 2, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>, <galacticraftplanets:item_basic_mars:3>, <galacticraftplanets:item_basic_mars:5>, <mist:niobium_ingot>, <mist:niobium_ingot>, <mist:niobium_ingot>);
+mods.GalacticraftTweaker.addCompressorShapelessRecipe(<astralsorcery:blockblackmarble> * 8, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>, <minecraft:coal>, <astralsorcery:blockmarble>, <astralsorcery:blockmarble>);
 //File End

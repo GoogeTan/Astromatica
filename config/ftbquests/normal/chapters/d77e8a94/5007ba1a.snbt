@@ -11,5 +11,11 @@
 		items: [{
 			item: "futuremc:blast_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "b7b8be79",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 16
 	}]
 }

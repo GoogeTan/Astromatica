@@ -13,5 +13,11 @@
 		items: [{
 			item: "minecraft:beacon"
 		}]
+	}],
+	rewards: [{
+		uid: "4720ca10",
+		type: "item",
+		item: "futuremc:wither_rose",
+		count: 16
 	}]
 }

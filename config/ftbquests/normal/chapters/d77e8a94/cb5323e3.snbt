@@ -9,5 +9,15 @@
 		uid: "f0fcc1a4",
 		type: "dimension",
 		dim: -1
+	}],
+	rewards: [{
+		uid: "ef11624b",
+		type: "item",
+		item: {
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:fire_resistance"
+			}
+		}
 	}]
 }

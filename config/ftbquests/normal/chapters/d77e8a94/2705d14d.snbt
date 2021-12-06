@@ -8,5 +8,15 @@
 		uid: "c1827fc3",
 		type: "dimension",
 		dim: 1
+	}],
+	rewards: [{
+		uid: "65c6ed8b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:water_bucket"
+		}
 	}]
 }

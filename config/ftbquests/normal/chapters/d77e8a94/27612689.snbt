@@ -11,11 +11,11 @@
 		items: [{
 			item: "minecraft:diamond"
 		}],
-		count: 48L
+		count: 16L
 	}],
 	rewards: [{
 		uid: "e9d91e0f",
 		type: "xp_levels",
-		xp_levels: 12
+		xp_levels: 9
 	}]
 }

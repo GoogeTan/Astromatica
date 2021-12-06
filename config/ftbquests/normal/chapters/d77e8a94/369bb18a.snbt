@@ -11,12 +11,33 @@
 		items: [{
 			item: "minecraft:cobblestone"
 		}],
-		count: 32L
+		count: 64L
 	}],
 	rewards: [{
-		uid: "1b78a836",
+		uid: "9e89af70",
 		type: "item",
-		item: "minecraft:coal_ore",
-		count: 16
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -7300571724350493944L,
+					AS_Amulet_HolderMost: -3945768680637642496L
+				}
+			},
+			id: "minecraft:stone_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 32s
+				},
+				{
+					lvl: 1s,
+					id: 34s
+				},
+				{
+					lvl: 1s,
+					id: 35s
+				}]
+			}
+		}
 	}]
 }

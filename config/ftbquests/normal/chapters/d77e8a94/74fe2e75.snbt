@@ -105,6 +105,12 @@
 		uid: "ef9d2c1f",
 		type: "item",
 		item: "minecraft:golden_apple",
-		count: 2
+		count: 4
+	},
+	{
+		uid: "ee386d29",
+		type: "item",
+		item: "minecraft:cooked_beef",
+		count: 16
 	}]
 }

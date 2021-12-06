@@ -54,6 +54,14 @@
 			item: "galacticraftcore:basic_item 1 11"
 		}],
 		count: 64L
+	},
+	{
+		uid: "afc2b12f",
+		type: "item",
+		items: [{
+			item: "galacticraft:compressed_niobium"
+		}],
+		count: 32L
 	}],
 	rewards: [{
 		uid: "129df673",

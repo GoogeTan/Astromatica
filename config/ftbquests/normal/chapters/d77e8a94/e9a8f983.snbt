@@ -11,5 +11,11 @@
 		items: [{
 			item: "galacticraftcore:machine"
 		}]
+	}],
+	rewards: [{
+		uid: "7a3f3078",
+		type: "item",
+		item: "minecraft:coal",
+		count: 48
 	}]
 }

@@ -10,5 +10,11 @@
 		items: [{
 			item: "futuremc:smoker"
 		}]
+	}],
+	rewards: [{
+		uid: "e3a26c91",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 16
 	}]
 }

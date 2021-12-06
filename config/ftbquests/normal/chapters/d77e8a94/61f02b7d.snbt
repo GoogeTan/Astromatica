@@ -19,6 +19,7 @@
 	{
 		uid: "8665d73a",
 		type: "item",
-		item: "minecraft:golden_apple 1 1"
+		item: "minecraft:golden_apple 1 1",
+		count: 8
 	}]
 }

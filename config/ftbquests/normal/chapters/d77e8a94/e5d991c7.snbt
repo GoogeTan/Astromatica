@@ -11,5 +11,18 @@
 			item: "minecraft:ender_chest"
 		}],
 		count: 2L
+	}],
+	rewards: [{
+		uid: "b5666e6b",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 33s
+				}]
+			}
+		}
 	}]
 }

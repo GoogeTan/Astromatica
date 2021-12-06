@@ -12,5 +12,15 @@
 			item: "minecraft:ender_eye"
 		}],
 		count: 14L
+	}],
+	rewards: [{
+		uid: "43b023b6",
+		type: "item",
+		item: {
+			id: "minecraft:splash_potion",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		}
 	}]
 }

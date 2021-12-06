@@ -1,15 +1,15 @@
 {
-	title: "Сберечь",
-	x: 1.5d,
+	title: "Зеленая энергия",
+	x: -2.0d,
 	y: 7.0d,
 	dependencies: [
 		"9ea5474f"
 	],
 	tasks: [{
-		uid: "aac8d886",
+		uid: "a58496d7",
 		type: "item",
 		items: [{
-			item: "galacticraftcore:machine_tiered 1 8"
+			item: "galacticraftcore:solar"
 		}],
 		count: 4L
 	}]

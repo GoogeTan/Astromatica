@@ -11,5 +11,11 @@
 		items: [{
 			item: "minecraft:furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "56830752",
+		type: "item",
+		item: "minecraft:coal 1 1",
+		count: 16
 	}]
 }

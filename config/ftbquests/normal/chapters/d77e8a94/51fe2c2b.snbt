@@ -16,5 +16,11 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5557a166",
+		type: "item",
+		item: "minecraft:fireworks",
+		count: 16
 	}]
 }

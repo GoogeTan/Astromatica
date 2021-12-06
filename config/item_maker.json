@@ -4,5 +4,11 @@
 		"name" : "compressed_starmetal",
 		"creativeTab" : "redstone",
 		"maxStackSize" : 64
+	},
+	{
+		"modId" : "galacticraft",
+		"name" : "compressed_niobium",
+		"creativeTab" : "redstone",
+		"maxStackSize" : 64
 	}
 ]
