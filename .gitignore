@@ -12,4 +12,7 @@ optionsof.txt
 /assets/
 .curseclient
 /crash-reports/
+mods/elegant-networking-1.12-2.5.jar
+mods/endercompass-1.5.1-1.12.2.jar
 /.mixin.out/
+config/elegant_networking.cfg
