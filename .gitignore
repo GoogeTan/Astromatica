@@ -16,3 +16,7 @@ mods/elegant-networking-1.12-2.5.jar
 mods/endercompass-1.5.1-1.12.2.jar
 /.mixin.out/
 config/elegant_networking.cfg
+config/jei/bookmarks.ini
+/journeymap/ 
+crafttweaker.log
+mods/journeymap-1.12.2-5.7.1.jar
