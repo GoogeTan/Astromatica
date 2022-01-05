@@ -10,5 +10,17 @@
 		"name" : "compressed_niobium",
 		"creativeTab" : "redstone",
 		"maxStackSize" : 64
-	}
+	},
+    {
+		"modId" : "astralsorcery",
+		"name" : "marble_chips",
+		"creativeTab" : "redstone",
+		"maxStackSize" : 64        
+    },
+    {
+		"modId" : "integrateddynamics",
+		"name" : "valve",
+		"creativeTab" : "redstone",
+		"maxStackSize" : 64        
+    }
 ]
