@@ -17,11 +17,11 @@ addOreInfusion(<galacticraftcore:basic_block_moon:6>, <galacticraftcore:item_bas
 addOreInfusion(<galacticraftplanets:mars:0>, <galacticraftcore:basic_item:3>);
 addOreInfusion(<galacticraftplanets:mars:3>, <minecraft:iron_ingot>);
 addOreInfusion(<galacticraftplanets:mars:1>, <galacticraftcore:basic_item:4>);
-addOreInfusion(<galacticraftplanets:mars:2>, <galacticraftplanets:item_basic_mars:2>);
+addOreInfusion(<galacticraftplanets:mars:2>, <galacticraftplanets:item_basic_mars:0>,2);
 
 addOreInfusion(<galacticraftplanets:asteroids_block:3>, <galacticraftcore:basic_item:5>,4);
-addOreInfusion(<galacticraftplanets:asteroids_block:4>, <galacticraftplanets:item_basic_asteroids:0>,4);
-addOreInfusion(<galacticraftplanets:asteroids_block:5>, <minecraft:iron_ingot>,4);
+addOreInfusion(<galacticraftplanets:asteroids_block:4>, <galacticraftplanets:item_basic_asteroids:4>,2);
+addOreInfusion(<galacticraftplanets:asteroids_block:5>, <galacticraftplanets:item_basic_asteroids:3>,3);
 
 addOreInfusion(<galacticraftplanets:venus:6>, <galacticraftcore:basic_item:5>,4);
 addOreInfusion(<galacticraftplanets:venus:7>, <galacticraftcore:basic_item:3>,4);
